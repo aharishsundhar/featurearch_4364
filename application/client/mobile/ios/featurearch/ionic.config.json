@@ -1,0 +1,7 @@
+{
+  "name": "featurearch",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "ionic-angular"
+}
